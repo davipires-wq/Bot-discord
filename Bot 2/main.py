@@ -102,4 +102,4 @@ async def dados(ctx):
 
 
 
-bot.run("MTQ5NjYwNTQ4NTM1MTA0NzIzOQ.Gmo6Gx.i-Ruyt-Z11WJR5XfkGfYqw_ARj3GeereYeN1OU")
+bot.run("DIGITE O TOKEN DO SEU BOT")
